@@ -1,0 +1,16 @@
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\bin\Debug\net5.0\concat-interpolation.exe
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\bin\Debug\net5.0\concat-interpolation.deps.json
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\bin\Debug\net5.0\concat-interpolation.runtimeconfig.json
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\bin\Debug\net5.0\concat-interpolation.runtimeconfig.dev.json
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\bin\Debug\net5.0\concat-interpolation.dll
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\bin\Debug\net5.0\ref\concat-interpolation.dll
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\bin\Debug\net5.0\concat-interpolation.pdb
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\obj\Debug\net5.0\concat-interpolation.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\obj\Debug\net5.0\concat-interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\obj\Debug\net5.0\concat-interpolation.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\obj\Debug\net5.0\concat-interpolation.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\obj\Debug\net5.0\concat-interpolation.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\obj\Debug\net5.0\concat-interpolation.dll
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\obj\Debug\net5.0\ref\concat-interpolation.dll
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\obj\Debug\net5.0\concat-interpolation.pdb
+C:\Users\ELCOT\source\repos\concat-interpolation\concat-interpolation\obj\Debug\net5.0\concat-interpolation.genruntimeconfig.cache
